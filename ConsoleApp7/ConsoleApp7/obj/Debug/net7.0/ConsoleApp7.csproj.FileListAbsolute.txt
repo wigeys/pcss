@@ -1,0 +1,14 @@
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.AssemblyInfoInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.AssemblyInfo.cs
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net7.0/ConsoleApp7
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net7.0/ConsoleApp7.deps.json
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net7.0/ConsoleApp7.runtimeconfig.json
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net7.0/ConsoleApp7.dll
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net7.0/ConsoleApp7.pdb
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.dll
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/refint/ConsoleApp7.dll
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.pdb
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.genruntimeconfig.cache
+/home/n1x_/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net7.0/ref/ConsoleApp7.dll

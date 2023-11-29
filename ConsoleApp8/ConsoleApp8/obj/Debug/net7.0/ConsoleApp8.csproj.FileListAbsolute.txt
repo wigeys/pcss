@@ -1,0 +1,14 @@
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/bin/Debug/net7.0/ConsoleApp8
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/bin/Debug/net7.0/ConsoleApp8.deps.json
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/bin/Debug/net7.0/ConsoleApp8.runtimeconfig.json
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/bin/Debug/net7.0/ConsoleApp8.dll
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/bin/Debug/net7.0/ConsoleApp8.pdb
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.AssemblyInfoInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.AssemblyInfo.cs
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.csproj.CoreCompileInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.dll
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/refint/ConsoleApp8.dll
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.pdb
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.genruntimeconfig.cache
+/home/n1x_/RiderProjects/ConsoleApp8/ConsoleApp8/obj/Debug/net7.0/ref/ConsoleApp8.dll

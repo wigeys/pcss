@@ -1,0 +1,14 @@
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net7.0/ConsoleApp5
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net7.0/ConsoleApp5.deps.json
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net7.0/ConsoleApp5.runtimeconfig.json
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net7.0/ConsoleApp5.dll
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net7.0/ConsoleApp5.pdb
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.AssemblyInfoInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.AssemblyInfo.cs
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.dll
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/refint/ConsoleApp5.dll
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.pdb
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ConsoleApp5.genruntimeconfig.cache
+/home/n1x_/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net7.0/ref/ConsoleApp5.dll
